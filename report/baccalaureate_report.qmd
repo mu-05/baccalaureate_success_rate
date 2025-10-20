@@ -1,6 +1,6 @@
 ---
 title: "Dashboard on Baccalaureate Exam Results"
-description: ""
+description: "This project presents an interactive dashboard designed to help public authorities explore exam results data and identify regions and educational tracks in France that require targeted support."
 author: "Murad M."
 date: 2025-10-08
 format: 
